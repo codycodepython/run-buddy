@@ -77,11 +77,11 @@ section {
 
 /* hero-section */
 .hero {
-    background-image: url("../assets/images/hero-bg.jpg");
-    height: 800px;
+    background-image: url("../images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
+    height: 800px;
 }
 
 .hero-form {
@@ -239,7 +239,6 @@ section {
 /* end meet-the-trainers section */
 
 /* reach-out section */
-
 .contact {
     text-align: center;
     background: #024e76;
@@ -277,6 +276,4 @@ section {
 .contact-info a {
     color: #fce138;
 }
-
-
 /* end reach-out section */
