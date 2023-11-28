@@ -12,3 +12,5 @@ https://codycodepython.github.io/run-buddy/
 
 ## Contribution
 Made by codycodepython 
+
+### &copy; 2019 Run Buddy, Inc
