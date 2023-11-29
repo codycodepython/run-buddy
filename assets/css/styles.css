@@ -77,11 +77,14 @@ section {
 
 /* hero-section */
 .hero {
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/hero-bg-flipped.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
     height: 800px;
+}
+
+.hero-cta {
 }
 
 .hero-form {
